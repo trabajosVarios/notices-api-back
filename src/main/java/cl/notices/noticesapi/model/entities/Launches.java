@@ -1,0 +1,10 @@
+package cl.notices.noticesapi.model.entities;
+
+import lombok.Data;
+
+@Data
+public class Launches {
+
+    public String launches;
+
+}
